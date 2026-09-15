@@ -1,6 +1,4 @@
-                                     📱📊 Mobile Sales Dashboard 📱📊
-
-# 📱📊 Mobile Data Analysis & Power BI Dashboard 📱📊
+                                     📱📊 Mobile Data Analysis & Power BI Dashboard 📱📊
 
 An interactive **Power BI dashboard** for analyzing mobile phone specifications, companies, models, features, and launch prices to identify product and pricing patterns.
 
@@ -159,11 +157,5 @@ across mobile models.
 📊 **Interactive Power BI Dashboard**
 
 🌍 **Multi-Currency Price Analysis**
-
-```
-
-## 🚀 Skills Demonstrated
-
-**Power BI • DAX • Excel • Data Analysis • Data Visualization • Data Modeling • Dashboard Development • Business Intelligence • KPI Analysis • Pricing Analysis**
 
 
